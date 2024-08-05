@@ -17,5 +17,11 @@ A aplicação oferece as seguintes funcionalidades básicas:
 
 1. **Divisão por Zero:** A aplicação não trata a divisão por zero.
 2. **Número de Termos:** A aplicação permite apenas dois termos nos cálculos.
- <hr>
- O relatório completo da atividade pode ser encontrado em: https://yanna-torres.notion.site/Relat-rio-da-Atividade-API-REST-e-Representa-o-de-Dados-7c3a856a8a40425198312037d783d230?pvs=4
+   
+ ## Demonstração
+https://github.com/user-attachments/assets/ff3425a1-83f9-4404-bf9c-e2aa6f7e7bd7
+
+<hr>
+ O relatório completo da atividade pode ser encontrado em: 
+ 
+ https://yanna-torres.notion.site/Relat-rio-da-Atividade-API-REST-e-Representa-o-de-Dados-7c3a856a8a40425198312037d783d230
